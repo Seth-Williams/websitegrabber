@@ -8,4 +8,8 @@ mkdir ~/websites
 
 # download hacktricks
 httrack https://book.hacktricks.xyz/ -O ~/websites
+# download GTFO bins
+# httrack https://gtfobins.github.io/ -O ~/websites
+
+
 
