@@ -4,8 +4,8 @@
 sudo apt install httrack
 
 # create directory for the websites
-mkdir websites
+mkdir ~/websites
 
 # download hacktricks
-httrack https://book.hacktricks.xyz/ -O websites
+httrack https://book.hacktricks.xyz/ -O ~/websites
 
